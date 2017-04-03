@@ -4,6 +4,9 @@ This addon for Firefox for Android sends a Chrome user agent when visiting the G
 It's useful because Google serves a "lite" version of their mobile page to non-webkit browsers.
 It seems that Firefox can handle the "full" version of the site well enough that the extra functionality is beneficial.
 
+It's available from the Mozilla addon site here:
+https://addons.mozilla.org/en-US/firefox/addon/chrome-ua-on-google-android/
+
 This is the User Agent used:
 `Mozilla/5.0 (Linux; Android 6.0.1; SM-G928F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36`
 
