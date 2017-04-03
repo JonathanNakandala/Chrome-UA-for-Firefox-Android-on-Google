@@ -148,6 +148,7 @@ var targetPage = [
     "*://*.google.com.py/*",
     "*://*.google.com.qa/*",
     "*://*.google.ro/*",
+    "*://*.google.ru/*",
     "*://*.google.rs/*",
     "*://*.google.rw/*",
     "*://*.google.com.sa/*",
