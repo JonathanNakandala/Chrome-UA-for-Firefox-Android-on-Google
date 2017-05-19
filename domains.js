@@ -57,6 +57,7 @@ var targetPage = [
     "*://*.google.ee/*",
     "*://*.google.com.eg/*",
     "*://*.google.com.et/*",
+    "*://*.google.es/*",
     "*://*.google.eu/*",
     "*://*.google.fi/*",
     "*://*.google.com.fj",
