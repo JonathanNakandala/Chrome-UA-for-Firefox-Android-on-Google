@@ -1,6 +1,7 @@
 var targetPage = [
     "*://*.google.com/*",
     "*://*.google.ac/*",
+    "*://*.google.ad/*",
     "*://*.google.ae/*",
     "*://*.google.com.af/*",
     "*://*.google.com.ag/*",
