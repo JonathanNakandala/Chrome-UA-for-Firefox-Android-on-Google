@@ -1,6 +1,7 @@
 var targetPage = [
     "*://*.google.com/*",
     "*://*.google.ac/*",
+    "*://*.google.ad/*",
     "*://*.google.ae/*",
     "*://*.google.com.af/*",
     "*://*.google.com.ag/*",
@@ -57,6 +58,7 @@ var targetPage = [
     "*://*.google.ee/*",
     "*://*.google.com.eg/*",
     "*://*.google.com.et/*",
+    "*://*.google.es/*",
     "*://*.google.eu/*",
     "*://*.google.fi/*",
     "*://*.google.com.fj",
